@@ -1,4 +1,5 @@
-#MI-classification-using-weighted sparsity
+# MI-classification-using-weighted sparsity
+
 Classification of Motor Imagery EEG signal using weighted sparsity approach
 
 # Dataset used:
